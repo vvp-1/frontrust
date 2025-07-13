@@ -1,0 +1,17 @@
+{
+  "version": "1.0.1",
+  "launcher": {
+    "version": "1.0.1",
+    "url": "https://github.com/vvp-1/frontrust/raw/refs/heads/main/FrontRustLauncher.exe"
+  },
+  "servers": {
+    "main": "https://api.gamemonitoring.ru/servers/1",
+    "combat": "https://api.gamemonitoring.ru/servers/1"
+  },
+  "files": [
+        {
+      "url": "https://github.com/vvp-1/frontrust/raw/refs/heads/main/Managed/Assembly-CSharp.dll",
+      "path": "./FrontRust_Data/Managed/Assembly-CSharp.dll"
+    }
+  ]
+}
