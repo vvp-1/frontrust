@@ -5,7 +5,7 @@
     "url": "https://github.com/vvp-1/frontrust/raw/refs/heads/main/FrontRustLauncher.exe"
   },
   "servers": {
-    "main": "https://api.gamemonitoring.ru/servers/1",
+    "main": "https://gamemonitoring.net/rust/servers/9402761",
     "combat": "https://api.gamemonitoring.ru/servers/1"
   },
   "files": [
